@@ -1,4 +1,4 @@
-# Lip Reading Project
+# Conversion of Audioless Video to Speech Using AV-HuBERT Algorithm
 
 ## Overview
 This project reconstructs speech from lip movements using deep learning techniques. The model processes uploaded video files, extracts visual features, and generates corresponding speech output.
@@ -35,7 +35,7 @@ streamlit run lip_reading_project.py
 
 ## File Structure
 ```
-├── lip-reading.py  # Main application script
+├── AV-HuBERT.py  # Main application script
 ├── requirements.txt  # Required dependencies
 ├── README.md  # Project documentation
 ```
