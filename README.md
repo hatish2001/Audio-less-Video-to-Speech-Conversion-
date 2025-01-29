@@ -35,7 +35,7 @@ streamlit run lip_reading_project.py
 
 ## File Structure
 ```
-├── lip_reading_project.py  # Main application script
+├── lip-reading.py  # Main application script
 ├── requirements.txt  # Required dependencies
 ├── README.md  # Project documentation
 ```
