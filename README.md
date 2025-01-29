@@ -36,10 +36,7 @@ streamlit run lip_reading_project.py
 ## File Structure
 ```
 ├── lip_reading_project.py  # Main application script
-├── predict_lip_sync_text.py  # Lip reading prediction script
 ├── requirements.txt  # Required dependencies
-├── shape_predictor_68_face_landmarks.dat  # Landmark model for face detection
-├── 20words_mean_face.npy  # Mean face dataset for lip alignment
 ├── README.md  # Project documentation
 ```
 
